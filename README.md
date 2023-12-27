@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Derek
 #### I am a first year computer science student.
-![I am a first year computer science student.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a first year computer science student.]
 
 I attend Washington State University Vancouver and am eager to learn more about programming and doing whatever it takes to be the best developer possible.
 
