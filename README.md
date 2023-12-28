@@ -8,7 +8,6 @@ Skills: Python / Java / JavaScript / HTML / CSS
 
 - 🌱 I’m currently learning data structures and algorithms. 
 - 👯 I’m looking to collaborate on a Hackathon! I've never participated in one before. 
-- 🤔 I’m looking for help with what skills to learn next. 
 - 📫 How to reach me: derek.takahata@gmail.com 
 
 
