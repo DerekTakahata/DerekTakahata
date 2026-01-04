@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Derek
-#### I am a first year computer science student.
+#### I am a third year computer science student.
 
 
 I attend Washington State University Vancouver and am eager to learn more about programming and doing whatever it takes to be the best developer possible.
 
 Skills: Python / Java / JavaScript / HTML / CSS
 
-- 🌱 I’m currently learning data structures and algorithms. 
+- 🌱 I’m currently about databases and system architecture
 - 👯 I’m looking to collaborate on a Hackathon! I've never participated in one before. 
 - 📫 How to reach me: derek.takahata@gmail.com 
 
